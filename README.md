@@ -14,6 +14,8 @@ _This website includes my resume, projects and bio._
 * _Run on a web browser_
 * _View_
 
+_or just click the link: ejlaw01.github.io/el-portfolio_
+
 ### Technologies used
 
 _HTML, CSS, and Bootstrap_
