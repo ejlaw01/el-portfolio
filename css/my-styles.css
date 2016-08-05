@@ -4,8 +4,7 @@ body {
 
 .container {
   float: none;
-  margin-left: 20px;
-  margin-right: 0;
+  margin: 0 auto;
   border: solid black;
   clear: both;
 }
@@ -24,6 +23,7 @@ h1 {
 
 .nickname {
   font-size: 20px;
+  padding-top: 10px;
 }
 
 .contact ul {
@@ -35,24 +35,59 @@ h1 {
   float: right;
 }
 
+ul {
+  list-style-type: none;
+  line-height: 1.5em;
+}
+
+.reference li {
+  font-style: italic;
+  font-size: smaller;
+  line-height: 1em;
+}
+
 /*.me img {
   width: 300px;
   clear: both;
   margin-top; 100px;
 }*/
 
-.col-sm-4 {
+/*.col-sm-4 {
 
+}*/
+
+.col-sm-4 h2 {
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 15px;
 }
 
-a {
+.projects h2 {
+  padding: 30px;
+}
+
+#myCarousel img {
+  height: 350px;
+  width: auto;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+a:link {
+  color: darkblue;
   text-decoration: none;
 }
 
 a:hover {
-  color: darkblue;
+  color: black;
+}
+
+a:active {
+  color: white;
 }
 
 a:visited {
-  color: black;
+  color: darkblue;
 }
