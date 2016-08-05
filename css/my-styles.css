@@ -9,6 +9,11 @@ body {
   clear: both;
 }
 
+/*.nav a {
+  color: white;
+  font-weight: bold;
+}*/
+
 .header {
   padding-top: 40px;
 }
