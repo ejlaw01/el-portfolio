@@ -2,11 +2,11 @@
 
 #### _of things I've done_
 
-## By _**Ethan Law**_
+### By _**Ethan Law**_
 
 ### Description
 
-_This website includes my resume, projects and bio_
+_This website includes my resume, projects and bio._
 
 ### Setup
 
