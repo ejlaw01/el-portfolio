@@ -1,0 +1,58 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  float: none;
+  margin-left: 20px;
+  margin-right: 0;
+  border: solid black;
+  clear: both;
+}
+
+h1 {
+  text-align: left;
+  font-family: 'Abel', sans-serif;
+  padding-left: 20px;
+  float:left;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.nickname {
+  font-size: 20px;
+}
+
+.contact ul {
+  text-align: right;
+  font-size: 20px;
+  list-style-type: none;
+  padding: 10px;
+  padding-right: 20px;
+  float: right;
+}
+
+/*.me img {
+  width: 300px;
+  clear: both;
+  margin-top; 100px;
+}*/
+
+.col-sm-4 {
+
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkblue;
+}
+
+a:visited {
+  color: black;
+}
