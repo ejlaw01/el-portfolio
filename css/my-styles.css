@@ -9,6 +9,10 @@ body {
   clear: both;
 }
 
+.header {
+  padding-top: 40px;
+}
+
 h1 {
   text-align: left;
   font-family: 'Abel', sans-serif;
@@ -43,7 +47,8 @@ ul {
 .reference li {
   font-style: italic;
   font-size: smaller;
-  line-height: 1em;
+  line-height: 15px;
+  padding-top: 10px;
 }
 
 /*.me img {
@@ -62,8 +67,11 @@ ul {
   padding-bottom: 15px;
 }
 
+
+
 .projects h2 {
   padding: 30px;
+  padding-bottom: 15px;
 }
 
 #myCarousel img {
